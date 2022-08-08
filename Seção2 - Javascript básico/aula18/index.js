@@ -18,7 +18,7 @@ console.log(pessoa3);
 const pessoa4 = {
     nome: 'Kevin',
     sobrenome: 'Leal',
-    idade: 20,
+    idade: 22,
 
     fala(){
     console.log(`Meu nome é ${this.nome} ${this.sobrenome} e tenho ${this.idade} anos`)
