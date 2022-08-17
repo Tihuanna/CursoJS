@@ -1,0 +1,37 @@
+:root{
+    --primary-color:#520d52
+}
+*{
+ box-sizing: border-box;
+ outline: 0;
+    
+}
+
+body{
+    margin: 20;
+ padding: 0;
+ background: var(--primary-color);
+}
+
+.container{
+    max-width: 640px;
+    margin: 50px auto;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: aliceblue;
+
+}
+
+form input, form label, form button {
+    display: block;
+    width: 100%;
+}
+
+form input{
+    font-size: 19px
+}
+
+.paragrafo-resultado{
+    background: rgb(10, 199, 183);
+    padding: 10px 20px;
+}
