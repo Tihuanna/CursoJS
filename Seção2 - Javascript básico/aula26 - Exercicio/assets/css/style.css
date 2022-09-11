@@ -35,3 +35,8 @@ form input{
     background: rgb(10, 199, 183);
     padding: 10px 20px;
 }
+
+.bad{
+    background: rgb(172, 32, 32);
+    padding: 10px 20px;
+}
